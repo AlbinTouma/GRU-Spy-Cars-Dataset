@@ -4,9 +4,17 @@ Molfar published information on Russian GRU officers collected by their network 
 
 The data leak contains names, dates of birth, passport data, home addresses and cars regisered to the individuals; valuable information to OSINT analysts.
 
-This project scrapers the data on Molfar and explores the most common car owned by GRU officers with the intent to answer the question *What car can you buy if you work for the GRU?*.
+This project uses the data on Molfar and explores the most common car owned by GRU officers with the intent to answer the question *What car can you buy if you work for the GRU?*.
 
-The analysis is available at https://albintouma.com/posts/employees-of-the-GRU
+The gru.csv contains
+- Names
+- Ages
+- Addresses
+- Car brand
+- Military Unit
+
+The analysis is available in an essay at https://albintouma.com/posts/employees-of-the-GRU 
+The essay profiles GRU officers mentioned in the leak by looking at age spans, common names and most common car.
 
 You can access Molfar's data at https://molfar.com/en/gru.
 
